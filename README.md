@@ -1,15 +1,11 @@
-# CS344_OSLab_2020
+# CS344_OSLab_2022
 
 ## Operating Systems Laboratory
 
-### G4 Group Members
+### Group Members
 
-- **B Venkatesh&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 180101013**
+- **Harshwardhan Bhakkad&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**
 
-- **Harsh Motwani&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;180101028**
+- **Vikram Singla&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**
 
-- **Nishchay Manwani&nbsp; &nbsp; &nbsp;180101051**
-
-- **Vaibhav Kumar Singh&nbsp;180101086**
-
-![](final.jpg)
+- **Dhruv Tarsadiya&nbsp; &nbsp; &nbsp;**

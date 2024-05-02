@@ -2,6 +2,8 @@
 
 ## Operating Systems Laboratory
 
+Solutions to Operating Systems Assignments 
+
 ### Group Members
 
 - **Harshwardhan Bhakkad&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**
